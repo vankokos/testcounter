@@ -1,0 +1,24 @@
+.container {
+    margin: 0 auto;
+    width:500px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    padding-left:50px;
+    padding-right:50px;
+    height:30px;
+    cursor:pointer;
+    outline:none;
+    border:2px solid black;
+    border-radius:3px;
+    font-size:15px;
+    font-family:"dosis"
+}
+
+p {
+    font-family:"dosis";
+    font-size:30px;
+}
